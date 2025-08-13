@@ -17,7 +17,6 @@
 ---
 
 ## 🏆 Certifications & Achievements
-## 🏆 Certifications & Achievements
 
 [![CCNA: Introduction to Networks](https://img.shields.io/badge/CCNA-Introduction_to_Networks-blue?style=for-the-badge)](https://www.credly.com/badges/1e8e7d6e-d5c3-4a2e-bc39-3e8c4f8a0d3a)
 [![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction_to_Cybersecurity-IBM-blue?style=for-the-badge)](https://www.credly.com/badges/84d1a2c4-7737-4c3f-9d40-dc5f8d0a1b6b)
