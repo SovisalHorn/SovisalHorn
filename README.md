@@ -17,13 +17,15 @@
 ---
 
 ## 🏆 Certifications & Achievements
+## 🏆 Certifications & Achievements
 
-![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/1e8e7d6e-d5c3-4a2e-bc39-3e8c4f8a0d3a/ccna-introduction-to-networks.png)
-![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/84d1a2c4-7737-4c3f-9d40-dc5f8d0a1b6b/introduction-to-cybersecurity.png)
-![IBM Cybersecurity Tools and Cyberattacks V3](https://images.credly.com/size/110x110/images/2a0f8200-6e15-4d62-b4d4-f5c8f75b6a1d/ibm-intro-cybersecurity-tools.png)
-![IT Essentials](https://images.credly.com/size/110x110/images/0c9fef29-b65b-4d12-8b1c-bf1f5a3d73d3/it-essentials.png)
-![Linux Unhatched](https://images.credly.com/size/110x110/images/b3c4a4f0-92a3-4a9b-8e1a-8bbf4df25e5e/linux-unhatched.png)
-![Python Essentials 1](https://images.credly.com/size/110x110/images/f8b9d5d8-01b3-4cb3-8b6a-3b8a3e0592c8/python-essentials-1.png)
+[![CCNA: Introduction to Networks](https://img.shields.io/badge/CCNA-Introduction_to_Networks-blue?style=for-the-badge)](https://www.credly.com/badges/1e8e7d6e-d5c3-4a2e-bc39-3e8c4f8a0d3a)
+[![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction_to_Cybersecurity-IBM-blue?style=for-the-badge)](https://www.credly.com/badges/84d1a2c4-7737-4c3f-9d40-dc5f8d0a1b6b)
+[![IBM Cybersecurity Tools and Cyberattacks V3](https://img.shields.io/badge/IBM-Cybersecurity_Tools_and_Cyberattacks_v3-blue?style=for-the-badge)](https://www.credly.com/badges/2a0f8200-6e15-4d62-b4d4-f5c8f75b6a1d)
+[![IT Essentials](https://img.shields.io/badge/IT_Essentials-Cisco-blue?style=for-the-badge)](https://www.credly.com/badges/0c9fef29-b65b-4d12-8b1c-bf1f5a3d73d3)
+[![Linux Unhatched](https://img.shields.io/badge/Linux_Unhatched-Linux-blue?style=for-the-badge)](https://www.credly.com/badges/b3c4a4f0-92a3-4a9b-8e1a-8bbf4df25e5e)
+[![Python Essentials 1](https://img.shields.io/badge/Python_Essentials_1-Python-blue?style=for-the-badge)](https://www.credly.com/badges/f8b9d5d8-01b3-4cb3-8b6a-3b8a3e0592c8)
+
 
 ---
 
@@ -40,8 +42,7 @@
 
 ## 📫 Connect with Me  
 <p>
-  <a href="https://t.me/YourTelegramUsername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://facebook.com/YourFacebookProfile"><img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/sovisal-horn12/))
 </p>
 
 ---
