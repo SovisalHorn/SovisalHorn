@@ -4,16 +4,17 @@
 ---
 
 ## 🌐 About Me
-- 🎓 **Bachelor's in Telecom & Networking (Cybersecurity)** @ CADT  
+- 🎓 **Bachelor's in Telecom & Networking (Cyber Security)** @ CADT  
 - 🔐 Interested in **Network Security**, **Cyber Defense**, and **SOC**  
 - 🧘 Inspired by **Buddhist teachings** for focus & balance  
 - 💻 Comfortable with:
-  - **C Programming** (system-level projects)
-  - **HTML & CSS**
-  - **Basic Python**
+  - **C Programming & C++ Programming**
+  - **HTML & CSS​​ & JavsScript**
+  - **Python**
+  - **MySQL**
   - **Linux & Networking Fundamentals**
 - 🤝 Open to collaborating on **cybersecurity** or **networking research** projects  
-
+- Currently : Mastering GoLan Backend Langugague
 ---
 
 ## 🏆 Certifications & Achievements
